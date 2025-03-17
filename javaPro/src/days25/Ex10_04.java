@@ -4,16 +4,9 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 
-/**
- * @author kenik
- * @date 2025. 3. 10. - 오후 4:51:35
- * @subject 
- * @content
- */
 public class Ex10_04 {
 
 	public static void main(String[] args) {
-		// 5:02 수업 시작
 		// [문제]
 		// days24폴더 안에 있는 모든 파일을 검색해서 HashMap 
 		// 이라는 문자열을 갖고 있는 
